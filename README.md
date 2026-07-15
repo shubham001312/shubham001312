@@ -56,7 +56,7 @@ I'm a **B.Tech CSE (Artificial Intelligence)** student focused on Python backend
 | Project | What it is | Status |
 | ------- | ---------- | ------ |
 | [**GRBS — Goal Roadmap Builder System**](https://shubham001312.github.io/GRBS/) | Roadmap &amp; progress-tracking web app — dashboard, readiness meters, import/export, responsive UI | ✅ Built |
-| **NewsBuzz** | AI-powered news site with auto-publishing + manual release workflow | 🚧 In progress |
+| **NewsBuzz** | AI-powered news site with auto-publishing + manual release workflow | ✅ Built  |
 | **Project VEDA** | Personal AI system: local LLMs, model APIs, vector memory, RAG, chat, agents | ⭐ Flagship |
 | **Student Productivity API** | Backend API with auth, database, testing, Docker, deployment | 🗺️ Planned |
 | **RAG Demo App** | Document Q&amp;A using embeddings, vector DB, and LLM responses | 🗺️ Planned |
