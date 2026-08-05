@@ -42,9 +42,3 @@
 <p align="center"><a href="https://shubham001312.github.io/Shubham-Mallick/">→ full portfolio</a></p>
 
 ---
-
-<p align="center">
-⭐\u003Cbr>\u003Cb>\u003Ca href=\"https://shubham001312.github.io/GRBS/\">GRBS\u003C/a>\u003C/b>\u003Cbr>\u003Csub>Roadmap builder · live\u003C/sub>\u003C/td>m001312&layout=compact&hide_border=true&theme=default" height="150">
-</p>
-
-<p align="center"><sub>B.Tech CSE (AI) · North 24 Parganas, WB, India · open to internships</sub></p>
