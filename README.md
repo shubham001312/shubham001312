@@ -34,8 +34,8 @@
 <table align="center">
 <tr>
 <td align="center">⭐<br><b><a href="https://shubham001312.github.io/GRBS/">GRBS</a></b><br><sub>Roadmap builder · live</sub></td>
-<td align="center">🚧<br><b><a href="https://learnify.hosteler.shop/#veda">NewsBuzz</a></b><br><sub>AI news engine</sub></td>
-<td align="center">🧠<br><b>Project VEDA</b><br><sub>Personal A· RAG + agents</sub></td>
+<td align="center">🚧<br><b>NewsBuzz</b><br><sub>AI news engine</sub></td>
+<td align="center">🧠<br><b><a href="https://learnify.hosteler.shop/#veda">Project VEDA</a>a</b><br><sub>Personal A· RAG + agents</sub></td>
 </tr>
 </table>
 
