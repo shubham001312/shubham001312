@@ -39,6 +39,6 @@
 </tr>
 </table>
 
-<p align="center"><a href="https://shubham001312.github.io/Shubham-Mallick/">→ full portfolio</a></p>
+<p align="center"><a href="https://shubhammallickengineer.hosteler.shop/">→ full portfolio</a></p>
 
 ---
