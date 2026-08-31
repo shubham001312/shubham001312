@@ -3,7 +3,7 @@
 <p align="center"><i>I build the backend that makes AI usable.</i></p>
 
 <p align="center">
-  <a href="https://shubham001312.github.io/Shubham-Mallick/"><img src="https://img.shields.io/badge/Portfolio-3498db?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://shubhammallickengineer.hosteler.shop/"><img src="https://img.shields.io/badge/Portfolio-3498db?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shubham-mallick-061298378"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:shubham.mallick1440@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
@@ -34,7 +34,7 @@
 <table align="center">
 <tr>
 <td align="center">⭐<br><b><a href="https://shubham001312.github.io/GRBS/">GRBS</a></b><br><sub>Roadmap builder · live</sub></td>
-<td align="center">🚧<br><b>NewsBuzz</b><br><sub>AI news engine</sub></td>
+<td align="center">🚧<br><b><a href="https://learnify.hosteler.shop/#veda">NewsBuzz</a></b><br><sub>AI news engine</sub></td>
 <td align="center">🧠<br><b>Project VEDA</b><br><sub>Personal A· RAG + agents</sub></td>
 </tr>
 </table>
