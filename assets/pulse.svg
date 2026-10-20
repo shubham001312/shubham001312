@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" role="img" aria-label="live">
+  <title>live</title>
+  <circle cx="8" cy="8" r="5" fill="#C8102E">
+    <animate attributeName="opacity" values="1;0.35;1" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="8" cy="8" r="5" fill="none" stroke="#C8102E" stroke-opacity="0.45">
+    <animate attributeName="r" values="5;8;5" dur="1.7s" repeatCount="indefinite"/>
+    <animate attributeName="stroke-opacity" values="0.5;0;0.5" dur="1.7s" repeatCount="indefinite"/>
+  </circle>
+</svg>
