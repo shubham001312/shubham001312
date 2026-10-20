@@ -149,13 +149,13 @@
 <p align="left"><img src="https://raw.githubusercontent.com/shubham001312/shubham001312/main/assets/plate.svg" alt="" width="180"></p>
 
 <table align="center">
-<tr><td align="left" width="22%"><b style="color:#7A1F2B">Oct 2026 — now</b></td><td align="left"><span style="background-color:#7A1F2B;color:#FBF8F1;font-size:10px;letter-spacing:1.2px">CURRENT</span><br><b>AI Developer</b> · Potion Labs AI Technologies, Kolkata — on-site</td></tr>
-<tr><td align="left"><b style="color:#8A756E">Aug 2026</b></td><td align="left"><b>Founder &amp; Managing Director</b> · Hosteler India</td></tr>
-<tr><td align="left"><b style="color:#8A756E">Jul 2026</b></td><td align="left"><b>AI Intern</b> · Autom8x / SWOT Management, United States</td></tr>
-<tr><td align="left"><b style="color:#8A756E">Jun 2026</b></td><td align="left"><b>Member</b> · GDG On Campus, Kolkata</td></tr>
-<tr><td align="left"><b style="color:#1E40AF">Aug 2025 — Jul 2029</b></td><td align="left"><b>B.Tech, CSE (AI)</b> · MAKAUT, West Bengal — Semester 3</td></tr>
-<tr><td align="left"><b style="color:#8A756E">May 2022 — Dec 2023</b></td><td align="left"><b>Cadet</b> · National Cadet Corps, 6 Bengal Battalion — A grade</td></tr>
-<tr><td align="left"><b style="color:#8A756E">Aug 2018 — Mar 2025</b></td><td align="left"><b>Senior Secondary (CS)</b> · Jawahar Navodaya Vidyalaya</td></tr>
+<tr><td align="left" width="26%"><b style="color:#7A1F2B;font-size:14px">Oct 2026 — now</b></td><td align="left"><span style="color:#C8102E;font-size:10px;letter-spacing:1.6px">● CURRENT</span><br><b>AI Developer</b> · Potion Labs AI Technologies, Kolkata — on-site</td></tr>
+<tr><td align="left"><b style="color:#8A756E;font-size:14px">Aug 2026</b></td><td align="left"><b>Founder &amp; Managing Director</b> · Hosteler India</td></tr>
+<tr><td align="left"><b style="color:#8A756E;font-size:14px">Jul 2026</b></td><td align="left"><b>AI Intern</b> · Autom8x / SWOT Management, United States</td></tr>
+<tr><td align="left"><b style="color:#8A756E;font-size:14px">Jun 2026</b></td><td align="left"><b>Member</b> · GDG On Campus, Kolkata</td></tr>
+<tr><td align="left"><b style="color:#1E40AF;font-size:14px">Aug 2025 — Jul 2029</b></td><td align="left"><b>B.Tech, CSE (AI)</b> · MAKAUT, West Bengal — Semester 3</td></tr>
+<tr><td align="left"><b style="color:#8A756E;font-size:14px">May 2022 — Dec 2023</b></td><td align="left"><b>Cadet</b> · National Cadet Corps, 6 Bengal Battalion — A grade</td></tr>
+<tr><td align="left"><b style="color:#8A756E;font-size:14px">Aug 2018 — Mar 2025</b></td><td align="left"><b>Senior Secondary (CS)</b> · Jawahar Navodaya Vidyalaya</td></tr>
 </table>
 
 ## 🎯 Mission
